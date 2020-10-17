@@ -79,6 +79,9 @@ jspm_packages
 # Nuxt generate
 dist
 
+# Build Files
+website.zip
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
